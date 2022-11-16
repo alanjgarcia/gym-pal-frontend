@@ -4,10 +4,9 @@
 
 GymPal is an app designed to help people reach their personal fitness goals. Users can create specific workout routines using the exercises provided on the site. Each exercise has a diagram as well as a link to a video tutorial to perform each exercise safely and effectively. GymPal is an app with the goal of making fitness a social experience. Users will be able to share their routines with other users and schedule workouts together! 
 
-GymPal was built using a Ruby on Rails backend and a JS.react frontend. 
+GymPal technologies include Ruby on Rails backend, Postgres database, JS.react frontend with additional react features such as calendars and charts. 
 
 ## Installation
-
 
 
 ```bash
