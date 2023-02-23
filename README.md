@@ -18,10 +18,11 @@ GymPal technologies include Ruby on Rails backend, Postgres database, JS.react f
 ## Installation
 
 ```bash
+cd gym-pal-frontend
 
-bundle install gym-pal-frontend 
+npm install  
 
-rails db:create db:migrate db:seed
+npm run dev 
 ```
 ## Usage
 ```bash
